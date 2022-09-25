@@ -1,8 +1,8 @@
 # Assignment-4
- This is assignment-4 of CS 648
+ This is assignment-4 of CS 648.01 Advanced Topics in Web and Mobile Applications
 
 #### Introduction:
-This assignment covers the Grid Layout. Here we have implemented *index.html*  which creates a structure for a website.
+The Grid Layout is covered in this assignment. Here, we've used *index.html* to implement a website's structure.
 
 It covers various properties of grids such as:
 1. grid-gap
